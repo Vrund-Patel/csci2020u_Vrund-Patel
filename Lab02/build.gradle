@@ -1,5 +1,0 @@
-apply plugin: 'java'
-
-apply plugin: 'application'
-
-mainClassName = 'src.main.java.csci2020.lab02.SimpleTest'
