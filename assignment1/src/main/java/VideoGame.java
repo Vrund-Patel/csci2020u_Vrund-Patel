@@ -9,7 +9,7 @@ public abstract class VideoGame {
         //start video game
         startVideoGame();
 
-        //end game
+        //end video game
         endVideoGame();
     }
 }
