@@ -2,12 +2,12 @@
 public class Pokemon extends VideoGame {
 
     @Override
-    void endGame() {
+    void endVideoGame() {
         System.out.println("You became the elite 4 champion");
     }
 
     @Override
-    void startGame() {
+    void startVideoGame() {
         System.out.println("Welcome to the World of Pokemon!");
     }
 }
