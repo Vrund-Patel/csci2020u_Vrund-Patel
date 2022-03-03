@@ -1,7 +1,7 @@
 // Abstract Class
 public abstract class VideoGame {
-    abstract void startGame();
-    abstract void endGame();
+    abstract void startVideoGame();
+    abstract void endVideoGame();
 
     //template method
     public final void play(){
