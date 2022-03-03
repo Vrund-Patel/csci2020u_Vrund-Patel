@@ -1,3 +1,4 @@
+//Concrete Class
 public class MarioCart extends VideoGame {
 
     @Override
