@@ -1,3 +1,4 @@
+// Abstract Class
 public abstract class VideoGame {
     abstract void startGame();
     abstract void endGame();
@@ -5,10 +6,10 @@ public abstract class VideoGame {
     //template method
     public final void play(){
 
-        //start game
-        startGame();
+        //start video game
+        startVideoGame();
 
         //end game
-        endGame();
+        endVideoGame();
     }
 }
