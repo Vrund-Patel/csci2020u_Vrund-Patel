@@ -1,3 +1,4 @@
+//Concrete Class
 public class Pokemon extends VideoGame {
 
     @Override
